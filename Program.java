@@ -4,4 +4,6 @@ public class Program  {
 
   private String name;
 
+  private String address;
+
 }
