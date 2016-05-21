@@ -6,4 +6,6 @@ public class Program  {
 
   private String lastname;
 
+  private String address;
+
 }
